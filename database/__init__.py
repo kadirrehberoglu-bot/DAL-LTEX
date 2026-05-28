@@ -1,0 +1,3 @@
+"""
+Database Module - Veritabanı Modülü
+"""
